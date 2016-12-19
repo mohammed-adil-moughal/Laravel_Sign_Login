@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/simple-test/database/seeds/admin.php</file>
+            <file>file:/C:/xampp/htdocs/simple-test/database/seeds/DatabaseSeeder.php</file>
+            <file>file:/C:/xampp/htdocs/simple-test/resources/views/admin/addorganisation.blade.php</file>
+            <file>file:/C:/xampp/htdocs/simple-test/database/seeds/AdminSeeder.php</file>
+            <file>file:/C:/xampp/htdocs/simple-test/app/Http/routes.php</file>
+            <file>file:/C:/xampp/htdocs/simple-test/resources/views/admin/allusers.blade.php</file>
+            <file>file:/C:/xampp/htdocs/simple-test/database/migrations/2016_12_19_075837_create_organisation_table.php</file>
+            <file>file:/C:/xampp/htdocs/simple-test/database/migrations/2016_12_19_115654_create_superadmintable.php</file>
+        </group>
+    </open-files>
+</project-private>
